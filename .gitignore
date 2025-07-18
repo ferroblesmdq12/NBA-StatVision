@@ -1,1 +1,3 @@
 juego_por_juego.csv
+*.csv
+*.sqlite
