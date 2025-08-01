@@ -3,3 +3,4 @@ juego_por_juego.csv
 *.sqlite
 .env
 .credencial
+.pbix
